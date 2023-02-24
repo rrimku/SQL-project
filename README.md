@@ -1,5 +1,5 @@
 # SQL-1
-Portfolio dedicated for future employers
+
 Hey, 
 This is my first SQL project. 
 It includes aggregations, manipulations, subqueries, advanced functions, window Functions
