@@ -1,5 +1,4 @@
-# SQL-1
-
+# SQL project
 Hey, 
 This is my first SQL project. 
 It includes aggregations, manipulations, subqueries, advanced functions, window Functions
